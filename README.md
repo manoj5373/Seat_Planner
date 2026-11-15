@@ -1,12 +1,12 @@
 # CP-036 SeatPlanner: Constraint-Based Exam Seating Allocation System
 
 ## Team
-[Your Name] ([Your USN]), C track
+Manoj L (1AT24EC079), Prabhath C S (1AT24EC109), C track
 
 ## How to run
 
 1. Make sure GCC is installed on your system.
-2. Keep `SeatPlanner.c` and `Student_Database.csv` in the same folder.
+2. Keep `seat_planner.c` and `Student_Database.csv` in the same folder.
 3. Open the project folder in the terminal.
 4. Compile the program:
 
