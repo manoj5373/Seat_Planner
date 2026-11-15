@@ -322,9 +322,5 @@ Seat: 2
 Enter your choice: 6
 
 Thank you for using SeatPlanner!
-
-Enter your choice: 6
-
-Thank you for using SeatPlanner!
 ```
 
