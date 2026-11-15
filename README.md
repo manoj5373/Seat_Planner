@@ -11,19 +11,19 @@ Manoj L (1AT24EC079), Prabhath C S (1AT24EC109), C track
 4. Compile the program:
 
 ```bash
-gcc SeatPlanner.c -o SeatPlanner.exe
+gcc seat_planner.c -o seat_planner.exe
 ```
 
 5. Run the application:
 
 **Windows PowerShell:**
 ```powershell
-.\SeatPlanner.exe
+.\seat_planner.exe
 ```
 
 **MSYS2 / GCC terminal:**
 ```bash
-./SeatPlanner.exe
+./seat_planner.exe
 ```
 
 ## Features that work
